@@ -1,0 +1,15 @@
+{
+	"name": "pw-df-data-factory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "17788a50-c340-4491-bbec-56fcb14b5d14",
+		"tenantId": "a0dec02d-f742-4c7b-928a-7a65438e719a"
+	}
+}
